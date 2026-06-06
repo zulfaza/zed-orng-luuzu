@@ -1,0 +1,7 @@
+id = "orng-luuzu"
+name = "orng Luuzu"
+version = "0.0.1"
+schema_version = 1
+authors = ["Luuzu", "zulfaza <zulfazamakarima@gmail.com>"]
+description = "orng Dark theme, Luuzu fork"
+repository = "https://github.com/zulfaza/zed-orng-luuzu"
